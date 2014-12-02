@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "55DF071519F4D2F9008E925B"
-               BuildableName = "ARMetaioMap.app"
+               BuildableName = "ARMetaioMap.temp_caseinsensitive_rename.app"
                BlueprintName = "ARMetaioMap.temp_caseinsensitive_rename"
                ReferencedContainer = "container:ARMetaioMap.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "55DF073919F4D2F9008E925B"
-               BuildableName = "ARMetaioMapTests.xctest"
+               BuildableName = "ARMetaioMap.temp_caseinsensitive_renameTests.xctest"
                BlueprintName = "ARMetaioMap.temp_caseinsensitive_renameTests"
                ReferencedContainer = "container:ARMetaioMap.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "55DF071519F4D2F9008E925B"
-            BuildableName = "ARMetaioMap.app"
+            BuildableName = "ARMetaioMap.temp_caseinsensitive_rename.app"
             BlueprintName = "ARMetaioMap.temp_caseinsensitive_rename"
             ReferencedContainer = "container:ARMetaioMap.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "55DF071519F4D2F9008E925B"
-            BuildableName = "ARMetaioMap.app"
+            BuildableName = "ARMetaioMap.temp_caseinsensitive_rename.app"
             BlueprintName = "ARMetaioMap.temp_caseinsensitive_rename"
             ReferencedContainer = "container:ARMetaioMap.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "55DF071519F4D2F9008E925B"
-            BuildableName = "ARMetaioMap.app"
+            BuildableName = "ARMetaioMap.temp_caseinsensitive_rename.app"
             BlueprintName = "ARMetaioMap.temp_caseinsensitive_rename"
             ReferencedContainer = "container:ARMetaioMap.xcodeproj">
          </BuildableReference>
